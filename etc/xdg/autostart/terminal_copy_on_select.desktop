@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Terminal Copy On Select
+Comment=Terminal Copy on Select
+Exec=/usr/local/bin/terminal_copy_on_select.py
+Terminal=false
+Type=Application
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true

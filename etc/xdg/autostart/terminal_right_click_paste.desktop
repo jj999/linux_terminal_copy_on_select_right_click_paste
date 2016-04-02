@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Terminal Right Click Paste
+Comment=Terminal Right Click Paste
+Exec=/usr/local/bin/terminal_right_click_paste.py
+Terminal=false
+Type=Application
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
